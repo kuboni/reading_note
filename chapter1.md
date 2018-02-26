@@ -1,3 +1,6 @@
-# First Chapter
+# 拒絕聯考的小子
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+作者：吳祥輝
+
+出版年：1975
+
